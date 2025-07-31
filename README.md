@@ -32,3 +32,11 @@ plan to divide up the work amongst you.
   - You will conduct a sprint review with your product owner at the end of sprint one,
 two and three to show them what you have completed from the sprint backlog.
   - We ask that you approach these three days with a creative analytical mindset!
+
+# Data
+There are three files:
+  - train.csv -- this data contains all of the training data for your model.
+The target variable (SalePrice) is removed from the test set!
+  - test.csv -- this data contains the test data for your model. You will feed this data
+into your regression model to make predictions.
+  - Data Source: https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data
