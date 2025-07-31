@@ -1,4 +1,6 @@
-# Scenario
+# Data Sprint - HDB Resale Prices Analysis and App
+
+## Scenario
 You are a data analyst at WOW!, a leading real estate agency in Singapore. The HDB
 resale market has become increasingly competitive, with a rise in demand and volatile
 pricing trends. The agency wants to empower their agents with a data-driven tool to:
@@ -7,7 +9,7 @@ pricing trends. The agency wants to empower their agents with a data-driven tool
 Your manager informs you that a team of data analysts is being formed to analyse the
 HDB resale market in Singapore and build a predictive model in a short turnaround.
 
-# Objectives
+## Objectives
   - Leverage HDB resale price data to identify the top factors and how they influence
   - HDB resale prices for WOW!: What are the key factors that the agents of WOW!
   - should focus on delivering accurate pricing advice?
@@ -15,7 +17,7 @@ HDB resale market in Singapore and build a predictive model in a short turnaroun
   - Transform data into useful information to help support business decisions.
   - Gain experience with project management and associated tools.
 
-# Structure of the Sprint
+## Structure of the Sprint
 The data sprint will be a three-day ‘sprint simulation’: A hypothetical scenario
 which is based on a real-world HDB resale price market.
   - You will be put into groups and will work in those breakout groups throughout the
@@ -33,7 +35,7 @@ plan to divide up the work amongst you.
 two and three to show them what you have completed from the sprint backlog.
   - We ask that you approach these three days with a creative analytical mindset!
 
-# Data
+## Data
 There are three files:
   - train.csv -- this data contains all of the training data for your model.
 The target variable (SalePrice) is removed from the test set!
